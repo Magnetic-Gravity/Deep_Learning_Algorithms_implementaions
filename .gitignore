@@ -1,10 +1,7 @@
 # Datasets
-Datasets/
 data/
-datasets/
 
 # Large files
-*.csv
 *.json
 *.zip
 *.parquet

@@ -1,0 +1,20 @@
+# Datasets
+Datasets/
+data/
+datasets/
+
+# Large files
+*.csv
+*.json
+*.zip
+*.parquet
+*.h5
+*.pt
+*.pth
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
